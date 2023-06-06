@@ -8,13 +8,17 @@ This class really showed the Pareto Principle (80/20 Rule) in effect. I was able
 I'm putting these here so I can remind myself how much fun it is to be creative and just get something out there. Most of these ideas are by no means viable products to go to market or accomplish some grand goal, or even work moving past the first prototype stage. But they were all made with minimal money, a little bit of time, and a whole lot of fun.
 
 # Part 1: Mechanical Engineering
+This challenge's criteria were to make something involving food, using only mechanical components.
 
 *Result: Snack Mag*
 
 # Part 2: Electrical Engineering 
+The Electrical Engineering challenge was to use Arduinos, Raspberry Pi's, and other electronics in a way that involves art. I chose to create a device that seemed magical that could sit on a desk with no visible parts. It's even set up on a trio of spooky books to give it the evil scientist theme!
 
-*Result: Hubby Rubby*
+*Result: Science Bubbler*
 
 # Part 3: Advanced Engineering & Storytelling
 
-*Result: Science Bubbler*
+*Result: Hubby Rubby*
+
+https://youtube.com/shorts/ICPdAG2f00A?feature=share

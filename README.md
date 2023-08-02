@@ -27,6 +27,18 @@ The Electrical Engineering challenge was to use Arduinos, Raspberry Pi's, and ot
 
 *Result: Science Bubbler* | TODO: Add video link
 
+This started with the idead to have something that would be pleasing to put in an office. I used to work in a building that had a wall with bubbling water that changed colors and I always thought that was really cool and also relaxing. Since I work in Research and Development, something science-y seemed appropriate.
+
+The basic idea was really simple: Have a container that filled and emptied with water with all the mechanisms hidden so it would look nice on a desk or wall. We had more than 10 extra plastic graduated cylinders in the lab so I thought "hey, why not 3?". From there I had a huge brainstorm of the potential variations I could do on the project. I could vary the time, add a speaker, add lights, make it Wifi connected, etc. etc. Because of the time constraints I settled on a program that would fill, hold, and drain at random intervals.
+
+The prototype was as simple as ordering the components and making sure they worked. I drilled a hole in the bottom of the graduated cylinders and glued some tubing to them and hooked it up to a reservoir of water. I used a potentiometer to run the motor and sure enough, it pumped and held the water in the cylinder.
+
+TODO: Assembling was easy
+
+TODO: Coding was a PITA. Motors were all different.
+
+TODO: Final thoughts.
+
 # Part 3: Advanced Engineering & Storytelling
 
 *Result: Hubby Rubby* | https://youtube.com/shorts/ICPdAG2f00A?feature=share

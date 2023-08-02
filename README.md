@@ -10,7 +10,7 @@ I'm putting these here so I can remind myself how much fun it is to be creative 
 # Part 1: Mechanical Engineering
 This challenge's criteria were to make something involving food, using only mechanical components.
 
-*Result: Snack Mag*
+*Result: Snack Mag*  | TODO: Add video link
 
 The Snack Mag is for when you're out shooting on the range and need a convenient place to store snackies. In this case a container with the same dimensions of a STANAG magazine fits into any existing gear you own to store your other magazines, allowing convenient storage and access alongside all your other gear.
 
@@ -25,10 +25,8 @@ In my final video I used the only conveient small bits of food I had in large qu
 # Part 2: Electrical Engineering 
 The Electrical Engineering challenge was to use Arduinos, Raspberry Pi's, and other electronics in a way that involves art. I chose to create a device that seemed magical that could sit on a desk with no visible parts. It's even set up on a trio of spooky books to give it the evil scientist theme!
 
-*Result: Science Bubbler*
+*Result: Science Bubbler* | TODO: Add video link
 
 # Part 3: Advanced Engineering & Storytelling
 
-*Result: Hubby Rubby*
-
-https://youtube.com/shorts/ICPdAG2f00A?feature=share
+*Result: Hubby Rubby* | https://youtube.com/shorts/ICPdAG2f00A?feature=share

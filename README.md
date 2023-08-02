@@ -12,6 +12,16 @@ This challenge's criteria were to make something involving food, using only mech
 
 *Result: Snack Mag*
 
+The Snack Mag is for when you're out shooting on the range and need a convenient place to store snackies. In this case a container with the same dimensions of a STANAG magazine fits into any existing gear you own to store your other magazines, allowing convenient storage and access alongside all your other gear.
+
+For the prototype I cut some scrap wood I had lying around. It was a ruler themed coat hanger before so it looked kind of strange afterwards, but the wood held and I was able to make it in only an hour or two for three different versions. One split in the middle and returned with a spring, the second split in the middle but only had magnets to hold it back in place, and the third had a small lever at the top that was thumb operated to open and close.
+
+Prototyping worked as intended! I originally though I would go with the magnet version but the spring version was much easier to work with. I also found that splitting it in the center of the magazine made it very difficult to use, so I planned to just have a small portion of the top come off. I essentially took the best of two prototypes and removed the worst, so I'm really glad I did it! Plus it took almost no time at all.
+
+For my final product I thought about cutting an existing magazine in half and modifying it but that seemed like it could have a lot of issues in the limited time I had. Instead I used some acrylic sheets that I cut and glued together. Of course my cuts weren't very straight so it was a bit off, but it worked.I glued a hinge to the back and a small spring to close the lid.
+
+In my final video I used the only conveient small bits of food I had in large quantities handy: dog food. Some got in my mouth 🤢.
+
 # Part 2: Electrical Engineering 
 The Electrical Engineering challenge was to use Arduinos, Raspberry Pi's, and other electronics in a way that involves art. I chose to create a device that seemed magical that could sit on a desk with no visible parts. It's even set up on a trio of spooky books to give it the evil scientist theme!
 

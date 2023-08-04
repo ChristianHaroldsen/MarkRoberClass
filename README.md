@@ -33,11 +33,15 @@ The basic idea was really simple: Have a container that filled and emptied with 
 
 The prototype was as simple as ordering the components and making sure they worked. I drilled a hole in the bottom of the graduated cylinders and glued some tubing to them and hooked it up to a reservoir of water. I used a potentiometer to run the motor and sure enough, it pumped and held the water in the cylinder.
 
-TODO: Assembling was easy
+Assembling the device was easy. I happened to be throwing out some old books that week and there were three different spooky books so I saved them for this and hollowed out the pages. I ran the tubing through them and through a hole in my desk down below where the reservoir and electronics were kept. This wouldn't be wall mountable in it's current state but most office desks come with these holes drilled out for cables so it wouldn't be noticed if they were placed on top of one.
 
-TODO: Coding was a PITA. Motors were all different.
+At this point it had taken me only an hour or two to prototype and then assemble everything. I spent less than 30 minutes coding a small program and then put everything together. I then spent the next two hours tweaking my code to death to try and get the darn thing to work. 🤦🏻‍♂️
 
-TODO: Final thoughts.
+It turns out each of the three motors performed slightly differently. This meant that the code I intented to hold the water would sometimes drain, hold, or continue filling the cylinders. The drain and raising had the same issues. To make it worse even the same motor would perform slightly differently over time and between tests, making it almost impossible to predict how it would work. I quickly decided I didn't care about perfection. What I ended up doing was taking the strongest motor and finding out how fast it could fill up the cylinder (minus some safety buffer at the top), and how much was needed to hold the water level. I set these at the maximum so that it would never overflow. Then I did the same with the weakest motor and the lowest fill so there would always be some water that made it into the cylinder. Finally to solve the drain time I just increased it to a really long time so it was sure to drain even the fullest graduated cylinder.
+
+Whew! I knew that this project would need tweaks but I didn't realize how long it would take. I spent probably 80% of the project just getting the final bits of code to work. Part of what took so long was I had to disconnect the microcontroller, move it to another room with my computer, connect it, recode and recompile, return to the project, and connect the microcontroller every time. The smallest of tweaks took a minimum of 90 seconds.
+
+In the end this project spawned an idea for something else I could create in the future. During the testing I thought it would be really convenient to have a set of potentiometers to change variables and a readout to record the values when I tweak them where I want them, but I figured it would take way too long to set that up. It gave me the idea to make a testing platform with lights, pots, switches, buttons, and a readout so I can quickly connect future projects to it when I need to tweak variables. This could potentially work for a sellable product too! Quite the unintended learning experience from this project.
 
 # Part 3: Advanced Engineering & Storytelling
 

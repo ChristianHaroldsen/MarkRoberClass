@@ -52,7 +52,14 @@ In the end this project spawned an idea for something else I could create in the
 The story for this was a snap  since I expereince this problem on a daily basis. My wife likes me to rub her back while she falls asleep at night. The only problem is I fall alseep while rubbing her back without fail. She nudges me to wake up but at some point I can't be woken up. Coming up with the idea to create something that would notice when I stop rubbing was basically already in my mind and seeing this challenge made it come to life almost immediately.
 
 **TODO: How the device works - electronics, lights, sound, vibration**
-The workings would be simple: You turn it and it "arms" itself for a set amount of time, during which if it doesn't detect motion for a brief period of time it sets off an alarm, light, and vibration. I thought about making the time adjustable  but decided it would be simpler and tell just as good as a story if it 
+The workings would be simple: You turn it and it "arms" itself for a set amount of time, during which if it doesn't detect motion for a brief period of time it sets off an alarm, light, and vibration. I thought about making the time adjustable but decided it would be simpler and tell just as good as a story if it had a set timer.
+
+I already had all the pieces to put this together so it went by really quick. I had a wearable-sized enclosure from years ago, a buzzer, LED's, and a accelerometer. I had to order some miniature vibration disc things from Amazon but they came next day and I knew I could wire and code everything so they would be plug-and-play. The microcontroller didn't fit inside the enclosure so I ended using electrical tape to hold it shut, but other than that it was a simple matter of connecting and mounting all the devices using hot glue. 
+
+**TODO: COde** 
+The code had three parts: a timer, a counter for time not moving, and the alarm sequence. The timer was simply a loop that checked between the start time and the current time and exited when it was greater than 180 seconds (3 minutes), the time I decided would be good. 
+
+For the coding I connected the accelerometer and watched the serial data while I moved the device around then picked a threshold from that.
 
 **TODO: Shocking**
 

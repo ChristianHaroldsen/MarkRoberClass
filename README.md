@@ -10,7 +10,7 @@ I'm putting these here so I can remind myself how much fun it is to be creative 
 # Part 1: Mechanical Engineering
 This challenge's criteria were to make something involving food, using only mechanical components.
 
-*Result: Snack Mag*  | TODO: Add video link
+*Result: Snack Mag*  | **TODO: Add video link**
 
 The Snack Mag is for when you're out shooting on the range and need a convenient place to store snackies. In this case a container with the same dimensions of a STANAG magazine fits into any existing gear you own to store your other magazines, allowing convenient storage and access alongside all your other gear.
 
@@ -25,7 +25,7 @@ In my final video I used the only conveient small bits of food I had in large qu
 # Part 2: Electrical Engineering 
 The Electrical Engineering challenge was to use Arduinos, Raspberry Pi's, and other electronics in a way that involves art. I chose to create a device that seemed magical that could sit on a desk with no visible parts. It's even set up on a trio of spooky books to give it the evil scientist theme!
 
-*Result: Science Bubbler* | TODO: Add video link
+*Result: Science Bubbler* | **TODO: Add video link**
 
 This started with the idead to have something that would be pleasing to put in an office. I used to work in a building that had a wall with bubbling water that changed colors and I always thought that was really cool and also relaxing. Since I work in Research and Development, something science-y seemed appropriate.
 
@@ -46,3 +46,18 @@ In the end this project spawned an idea for something else I could create in the
 # Part 3: Advanced Engineering & Storytelling
 
 *Result: Hubby Rubby* | https://youtube.com/shorts/ICPdAG2f00A?feature=share
+
+**TODO: Add class requirements** Combine everything you've learned and make it a story.
+
+The story for this was a snap  since I expereince this problem on a daily basis. My wife likes me to rub her back while she falls asleep at night. The only problem is I fall alseep while rubbing her back without fail. She nudges me to wake up but at some point I can't be woken up. Coming up with the idea to create something that would notice when I stop rubbing was basically already in my mind and seeing this challenge made it come to life almost immediately.
+
+**TODO: How the device works - electronics, lights, sound, vibration**
+The workings would be simple: You turn it and it "arms" itself for a set amount of time, during which if it doesn't detect motion for a brief period of time it sets off an alarm, light, and vibration. I thought about making the time adjustable  but decided it would be simpler and tell just as good as a story if it 
+
+**TODO: Shocking**
+
+**TODO: Final thoughts**
+
+# Summary
+
+**TODO: My experience in the class, what I learned, what I would do better next time. How to improve in my life**
